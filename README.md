@@ -1,4 +1,4 @@
 # Twitter-Clone-
 
-#Backend-NodeJs: Works with twitter API <br/>
-#Frontend-HTML,CSS, Vanilla JS
+# Backend-NodeJs: Works with twitter API <br/>
+# Frontend-HTML,CSS, Vanilla JS
